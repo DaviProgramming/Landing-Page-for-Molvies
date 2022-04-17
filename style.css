@@ -114,8 +114,8 @@ header .toggle img{
 }
 
 .list li a img{
-    
-    transform: scale(0.6);
+    filter: invert(1);
+    transform: scale(0.5);
 }
 
 .copyright{
